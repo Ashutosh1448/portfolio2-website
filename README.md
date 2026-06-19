@@ -1,16 +1,50 @@
-# React + Vite
+# Ashutosh Agrawal - Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About
 
-Currently, two official plugins are available:
+This is my personal portfolio website built to showcase my skills, projects, certifications, achievements, and professional journey as an AIML student and Java Developer.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+* Responsive Design
+* Modern User Interface
+* About Me Section
+* Skills Showcase
+* Project Portfolio
+* Resume Download
+* Contact Information
+* Mobile Friendly
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
 
-## Expanding the ESLint configuration
+* React.js
+* Vite
+* JavaScript
+* HTML5
+* CSS3
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Live Website
+
+https://ashutoshagrawal-portfolio2.vercel.app/
+
+## Getting Started
+
+```bash
+git clone https://github.com/Ashutosh1448/portfolio2-website.git
+cd portfolio2-website
+npm install
+npm run dev
+```
+
+## Author
+
+**Ashutosh Agrawal**
+
+* B.Tech AIML Student
+* Java Developer
+* GitHub: https://github.com/Ashutosh1448
+* LinkedIn: https://www.linkedin.com/in/ashutosh-agrawal-b90a9a296
+
+## License
+
+This project is open source and available under the MIT License.
